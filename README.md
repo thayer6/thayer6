@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there! I'm Casey 👋
 
-<!--
-**thayer6/thayer6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently:
+* 🏀 Machine Learning Engineer at [Zelus Analytics](https://zelusanalytics.com/)
+* 👩‍💻 Co-organizer of [Women in Sports Data](https://www.womeninsportsdata.org/)
+* 🚚 Freelance Software Engineer with Algorithmic Logistics
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Previously:
+* 🧬 Data Engineer working in cancer immunotherapy (Bristol Meyers Squibb/Celgene/Juno Therapeutics)
+* 📈 Co-Founder & Senior Data Scientist with [Social Impact Analytics Institute](https://www.linkedin.com/company/social-impact-analytics-institute/about/)
+* 📜 Data Science Certificate from the University of Washington
+* 📚 Molecular and Cellular Biology BS & Mathematics Minor from the University of Puget Sound
