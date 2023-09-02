@@ -1,7 +1,7 @@
 ### Hi there! I'm Casey 👋
 
 Currently:
-- 🏀 Machine Learning Engineer at [Zelus Analytics](https://zelusanalytics.com/)
+- 🏀 Engineering Lead at [Zelus Analytics](https://zelusanalytics.com/)
 - 👩‍💻 Co-organizer of [Women in Sports Data](https://www.womeninsportsdata.org/)
 
 Previously:
